@@ -8,7 +8,7 @@ A Worlde-liked maimai base song guessing website app
 
 References:
 Wordle by nyctimes
-[https://www.nytimes.com/games/wordle/index.html]
+https://www.nytimes.com/games/wordle/index.html
 
 Loldle
 [https://loldle.net/]
