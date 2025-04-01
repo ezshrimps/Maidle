@@ -12,3 +12,6 @@ https://www.nytimes.com/games/wordle/index.html
 
 Loldle: 
 https://loldle.net/
+
+Rankdle:
+https://rankdle.com/
