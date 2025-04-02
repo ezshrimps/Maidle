@@ -1,0 +1,22 @@
+h1 {
+    color: black;
+    font-size: 64px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+#hint {
+    font-size: 32px;
+    font-weight: 100;
+}
+
+#guess_maimai {
+    font-size: 32px;
+    text-align: center;
+    font-weight: 100;
+}
+
+.container {
+    text-align: center;
+}
