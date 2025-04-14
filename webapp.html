@@ -1,31 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>Maidle</title>
-  <style>
-    #suggestions {
-      border: 1px solid #ccc;
-      max-height: 150px;
-      overflow-y: auto;
-      position: absolute;
-      background: white;
-      width: 100%;
-    }
-    .suggestion-item {
-      padding: 5px;
-      cursor: pointer;
-    }
-    .suggestion-item:hover {
-      background-color: #eee;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="webapp.css">
+    <title>Maidle</title>
 </head>
 <body>
-  <h1>🎵 Songs Search</h1>
-  <input type="text" id="search" placeholder="Enter song name..." autocomplete="off" />
-  <div id="suggestions"></div>
-
-  <script src="main.js"></script>
+    <h1>Maidle</h1>
+    <p id="guess_maimai">Guess today's maimai song:</p>
+    <div class="container">
+        <input type="text" name="song_name" id="hint" placeholder="type song name">
+    </div>
 </body>
 </html>
