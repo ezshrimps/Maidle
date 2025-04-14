@@ -1,0 +1,2093 @@
+[
+  {
+    "song_id": 8,
+    "name": "True Love Song",
+    "artist": "Kai/クラシック「G線上のアリア」",
+    "type": "std",
+    "bpm": 150,
+    "category": "maimai",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 96
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.2,
+        "notes_designer": null,
+        "max_notes": 122
+      },
+      {
+        "difficulty": "expert",
+        "level": 10,
+        "internal_level": 10.2,
+        "notes_designer": "譜面-100号",
+        "max_notes": 177
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.4,
+        "notes_designer": "ニャイン",
+        "max_notes": 302
+      }
+    ]
+  },
+  {
+    "song_id": 9,
+    "name": "Color My World",
+    "artist": "GOSH/クラシック「悲愴」",
+    "type": "std",
+    "bpm": 94,
+    "category": "maimai",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 4,
+        "internal_level": 4,
+        "notes_designer": null,
+        "max_notes": 95
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.1,
+        "notes_designer": null,
+        "max_notes": 143
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.8,
+        "notes_designer": "譜面-100号",
+        "max_notes": 153
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.4,
+        "notes_designer": "ニャイン",
+        "max_notes": 213
+      }
+    ]
+  },
+  {
+    "song_id": 10,
+    "name": "LOVE & JOY",
+    "artist": "木村由姬 [cover]",
+    "type": "std",
+    "bpm": 173,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "expert",
+        "level": 8,
+        "internal_level": 8,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "master",
+        "level": 9,
+        "internal_level": 9,
+        "notes_designer": null,
+        "max_notes": 0
+      }
+    ]
+  },
+  {
+    "song_id": 11,
+    "name": "じょいふる",
+    "artist": "生物股长 [cover]",
+    "type": "std",
+    "bpm": 159,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "advanced",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "expert",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "master",
+        "level": 8,
+        "internal_level": 8,
+        "notes_designer": null,
+        "max_notes": 0
+      }
+    ]
+  },
+  {
+    "song_id": 15,
+    "name": "Everyday、カチューシャ",
+    "artist": "AKB48 [PV]",
+    "type": "std",
+    "bpm": 172.4,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 4,
+        "internal_level": 4,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "advanced",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "expert",
+        "level": 8,
+        "internal_level": 8,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "master",
+        "level": 8,
+        "internal_level": 8,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "remaster",
+        "level": 13,
+        "internal_level": 13.1,
+        "notes_designer": null,
+        "max_notes": 0
+      }
+    ]
+  },
+  {
+    "song_id": 17,
+    "name": "Future",
+    "artist": "★STAR GUiTAR [cover]",
+    "type": "std",
+    "bpm": 130,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 188
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.8,
+        "notes_designer": null,
+        "max_notes": 210
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.5,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 304
+      },
+      {
+        "difficulty": "master",
+        "level": 10,
+        "internal_level": 10.7,
+        "notes_designer": "譜面-100号",
+        "max_notes": 286
+      },
+      {
+        "difficulty": "remaster",
+        "level": 12,
+        "internal_level": 12.7,
+        "notes_designer": "はっぴー",
+        "max_notes": 496
+      }
+    ]
+  },
+  {
+    "song_id": 18,
+    "name": "Love You",
+    "artist": "Q;indivi [cover]",
+    "type": "std",
+    "bpm": 135,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 130
+      },
+      {
+        "difficulty": "advanced",
+        "level": 6,
+        "internal_level": 6.8,
+        "notes_designer": null,
+        "max_notes": 198
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.6,
+        "notes_designer": "譜面-100号",
+        "max_notes": 184
+      },
+      {
+        "difficulty": "master",
+        "level": 11,
+        "internal_level": 11.7,
+        "notes_designer": "ニャイン",
+        "max_notes": 198
+      }
+    ]
+  },
+  {
+    "song_id": 20,
+    "name": "恋愛サーキュレーション",
+    "artist": "「化物語」[cover]",
+    "type": "std",
+    "bpm": 120,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 4,
+        "internal_level": 4,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "advanced",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "expert",
+        "level": 7,
+        "internal_level": 7.8,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "master",
+        "level": 9,
+        "internal_level": 9.9,
+        "notes_designer": null,
+        "max_notes": 0
+      }
+    ]
+  },
+  {
+    "song_id": 21,
+    "name": "コネクト",
+    "artist": "ClariS　「魔法少女まどか☆マギカ」",
+    "type": "std",
+    "bpm": 175,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 157
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.3,
+        "notes_designer": null,
+        "max_notes": 222
+      },
+      {
+        "difficulty": "expert",
+        "level": 8,
+        "internal_level": 8.5,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 313
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12,
+        "notes_designer": "チャン@DP皆伝",
+        "max_notes": 334
+      }
+    ]
+  },
+  {
+    "song_id": 22,
+    "name": "In Chaos",
+    "artist": "Hiro「Crackin’DJ」",
+    "type": "std",
+    "bpm": 140,
+    "category": "ゲーム＆バラエティ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 142
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.6,
+        "notes_designer": null,
+        "max_notes": 221
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.7,
+        "notes_designer": "譜面-100号",
+        "max_notes": 326
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.5,
+        "notes_designer": "ニャイン",
+        "max_notes": 380
+      },
+      {
+        "difficulty": "remaster",
+        "level": 14,
+        "internal_level": 14.8,
+        "notes_designer": "チャン@DP皆伝",
+        "max_notes": 880
+      }
+    ]
+  },
+  {
+    "song_id": 23,
+    "name": "Crush On You",
+    "artist": "福山光晴「Crackin’DJ」",
+    "type": "std",
+    "bpm": 125,
+    "category": "ゲーム＆バラエティ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 4,
+        "internal_level": 4,
+        "notes_designer": null,
+        "max_notes": 126
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.6,
+        "notes_designer": null,
+        "max_notes": 168
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.2,
+        "notes_designer": "譜面-100号",
+        "max_notes": 223
+      },
+      {
+        "difficulty": "master",
+        "level": 11,
+        "internal_level": 11.4,
+        "notes_designer": "ニャイン",
+        "max_notes": 277
+      },
+      {
+        "difficulty": "remaster",
+        "level": 13,
+        "internal_level": 13.7,
+        "notes_designer": "Jack",
+        "max_notes": 555
+      }
+    ]
+  },
+  {
+    "song_id": 24,
+    "name": "Sun Dance",
+    "artist": "Hiro「Crackin’DJ」",
+    "type": "std",
+    "bpm": 102,
+    "category": "ゲーム＆バラエティ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 4,
+        "internal_level": 4,
+        "notes_designer": null,
+        "max_notes": 106
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.6,
+        "notes_designer": null,
+        "max_notes": 190
+      },
+      {
+        "difficulty": "expert",
+        "level": 8,
+        "internal_level": 8.9,
+        "notes_designer": "譜面-100号",
+        "max_notes": 225
+      },
+      {
+        "difficulty": "master",
+        "level": 11,
+        "internal_level": 11.3,
+        "notes_designer": "ニャイン",
+        "max_notes": 316
+      },
+      {
+        "difficulty": "remaster",
+        "level": 14,
+        "internal_level": 14,
+        "notes_designer": "譜面-100号",
+        "max_notes": 535
+      }
+    ]
+  },
+  {
+    "song_id": 25,
+    "name": "Sweets×Sweets",
+    "artist": "Team-D",
+    "type": "std",
+    "bpm": 132,
+    "category": "maimai",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 151
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.4,
+        "notes_designer": null,
+        "max_notes": 223
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.3,
+        "notes_designer": "譜面-100号",
+        "max_notes": 238
+      },
+      {
+        "difficulty": "master",
+        "level": 11,
+        "internal_level": 11.4,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 387
+      }
+    ]
+  },
+  {
+    "song_id": 27,
+    "name": "Love or Lies",
+    "artist": "capsule [cover]",
+    "type": "std",
+    "bpm": 128,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 105
+      },
+      {
+        "difficulty": "advanced",
+        "level": 6,
+        "internal_level": 6.8,
+        "notes_designer": null,
+        "max_notes": 190
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.5,
+        "notes_designer": "譜面-100号",
+        "max_notes": 263
+      },
+      {
+        "difficulty": "master",
+        "level": 11,
+        "internal_level": 11.7,
+        "notes_designer": "ニャイン",
+        "max_notes": 353
+      }
+    ]
+  },
+  {
+    "song_id": 29,
+    "name": "VICTORY",
+    "artist": "EXILE",
+    "type": "std",
+    "bpm": 130,
+    "category": "POPS＆アニメ",
+    "version": "GreeN PLUS",
+    "sort": "130000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 4,
+        "internal_level": 4,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "advanced",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "expert",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "master",
+        "level": 9,
+        "internal_level": 9,
+        "notes_designer": null,
+        "max_notes": 0
+      }
+    ]
+  },
+  {
+    "song_id": 30,
+    "name": "ネコ日和。",
+    "artist": "Kai/能登有沙",
+    "type": "std",
+    "bpm": 171,
+    "category": "maimai",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 177
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.9,
+        "notes_designer": null,
+        "max_notes": 241
+      },
+      {
+        "difficulty": "expert",
+        "level": 8,
+        "internal_level": 8.8,
+        "notes_designer": "譜面-100号",
+        "max_notes": 281
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.6,
+        "notes_designer": "ニャイン",
+        "max_notes": 346
+      }
+    ]
+  },
+  {
+    "song_id": 31,
+    "name": "虹と太陽",
+    "artist": "GOSH/manami",
+    "type": "std",
+    "bpm": 146,
+    "category": "maimai",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 135
+      },
+      {
+        "difficulty": "advanced",
+        "level": 8,
+        "internal_level": 8.4,
+        "notes_designer": null,
+        "max_notes": 204
+      },
+      {
+        "difficulty": "expert",
+        "level": 11,
+        "internal_level": 11.2,
+        "notes_designer": "譜面-100号",
+        "max_notes": 280
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.8,
+        "notes_designer": "ニャイン",
+        "max_notes": 344
+      }
+    ]
+  },
+  {
+    "song_id": 34,
+    "name": "Garden",
+    "artist": "May J. [cover]",
+    "type": "std",
+    "bpm": 99.97,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 4,
+        "internal_level": 4,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "advanced",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "expert",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "master",
+        "level": 8,
+        "internal_level": 8,
+        "notes_designer": null,
+        "max_notes": 0
+      }
+    ]
+  },
+  {
+    "song_id": 35,
+    "name": "炭★坑★節",
+    "artist": "Kai/光吉猛修",
+    "type": "std",
+    "bpm": 112,
+    "category": "maimai",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 164
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.1,
+        "notes_designer": null,
+        "max_notes": 222
+      },
+      {
+        "difficulty": "expert",
+        "level": 10,
+        "internal_level": 10.7,
+        "notes_designer": "譜面-100号",
+        "max_notes": 370
+      },
+      {
+        "difficulty": "master",
+        "level": 13,
+        "internal_level": 13.3,
+        "notes_designer": "ニャイン",
+        "max_notes": 356
+      }
+    ]
+  },
+  {
+    "song_id": 38,
+    "name": "NIGHT OF FIRE",
+    "artist": "NIKO [cover]",
+    "type": "std",
+    "bpm": 155,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 149
+      },
+      {
+        "difficulty": "advanced",
+        "level": 8,
+        "internal_level": 8.2,
+        "notes_designer": null,
+        "max_notes": 214
+      },
+      {
+        "difficulty": "expert",
+        "level": 10,
+        "internal_level": 10,
+        "notes_designer": "ニャイン",
+        "max_notes": 249
+      },
+      {
+        "difficulty": "master",
+        "level": 11,
+        "internal_level": 11.7,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 356
+      }
+    ]
+  },
+  {
+    "song_id": 40,
+    "name": "come again",
+    "artist": "m-flo [cover]",
+    "type": "std",
+    "bpm": 130,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 105
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.2,
+        "notes_designer": null,
+        "max_notes": 118
+      },
+      {
+        "difficulty": "expert",
+        "level": 10,
+        "internal_level": 10.2,
+        "notes_designer": "譜面-100号",
+        "max_notes": 210
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.4,
+        "notes_designer": "ニャイン",
+        "max_notes": 264
+      }
+    ]
+  },
+  {
+    "song_id": 41,
+    "name": "Chu Chu",
+    "artist": "moumoon 沐月 [PV]",
+    "type": "std",
+    "bpm": 98,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 4,
+        "internal_level": 4,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "advanced",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "expert",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "master",
+        "level": 9,
+        "internal_level": 9,
+        "notes_designer": null,
+        "max_notes": 0
+      }
+    ]
+  },
+  {
+    "song_id": 42,
+    "name": "jelly",
+    "artist": "capsule [cover]",
+    "type": "std",
+    "bpm": 128,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 108
+      },
+      {
+        "difficulty": "advanced",
+        "level": 8,
+        "internal_level": 8,
+        "notes_designer": null,
+        "max_notes": 162
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.3,
+        "notes_designer": "譜面-100号",
+        "max_notes": 256
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.4,
+        "notes_designer": "ニャイン",
+        "max_notes": 346
+      }
+    ]
+  },
+  {
+    "song_id": 43,
+    "name": "愛を止めないで ",
+    "artist": "倖田來未 [PV]",
+    "type": "std",
+    "bpm": 83,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 3,
+        "internal_level": 3,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "advanced",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "expert",
+        "level": 8,
+        "internal_level": 8,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "master",
+        "level": 10,
+        "internal_level": 10,
+        "notes_designer": null,
+        "max_notes": 0
+      }
+    ]
+  },
+  {
+    "song_id": 44,
+    "name": "ハッピーシンセサイザ",
+    "artist": "EasyPop",
+    "type": "std",
+    "bpm": 127,
+    "category": "niconico&ボーカロイド",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 114
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.6,
+        "notes_designer": null,
+        "max_notes": 189
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.6,
+        "notes_designer": "譜面-100号",
+        "max_notes": 280
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.5,
+        "notes_designer": "ニャイン",
+        "max_notes": 297
+      }
+    ]
+  },
+  {
+    "song_id": 45,
+    "name": "Choo Choo Train",
+    "artist": "EXILE [PV]",
+    "type": "std",
+    "bpm": 115,
+    "category": "POPS＆アニメ",
+    "version": "GreeN",
+    "sort": "120000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 4,
+        "internal_level": 4,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "advanced",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "expert",
+        "level": 8,
+        "internal_level": 8,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "master",
+        "level": 10,
+        "internal_level": 10,
+        "notes_designer": null,
+        "max_notes": 0
+      }
+    ]
+  },
+  {
+    "song_id": 46,
+    "name": "ルカルカ★ナイトフィーバー",
+    "artist": "samfree",
+    "type": "std",
+    "bpm": 160,
+    "category": "niconico&ボーカロイド",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 114
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.6,
+        "notes_designer": null,
+        "max_notes": 230
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.3,
+        "notes_designer": "譜面-100号",
+        "max_notes": 260
+      },
+      {
+        "difficulty": "master",
+        "level": 11,
+        "internal_level": 11.7,
+        "notes_designer": "ニャイン",
+        "max_notes": 381
+      }
+    ]
+  },
+  {
+    "song_id": 47,
+    "name": "源平大戦絵巻テーマソング",
+    "artist": "新小田夢童 ＆ キラ★ロッソ",
+    "type": "std",
+    "bpm": 190,
+    "category": "ゲーム＆バラエティ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 152
+      },
+      {
+        "difficulty": "advanced",
+        "level": 8,
+        "internal_level": 8.5,
+        "notes_designer": null,
+        "max_notes": 231
+      },
+      {
+        "difficulty": "expert",
+        "level": 10,
+        "internal_level": 10.7,
+        "notes_designer": "譜面-100号",
+        "max_notes": 376
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.8,
+        "notes_designer": "ニャイン",
+        "max_notes": 428
+      },
+      {
+        "difficulty": "remaster",
+        "level": 14,
+        "internal_level": 14.6,
+        "notes_designer": "舞舞10年ズ（チャンとはっぴー）",
+        "max_notes": 722
+      }
+    ]
+  },
+  {
+    "song_id": 49,
+    "name": "アイデンティティ",
+    "artist": "Sakanaction [cover]",
+    "type": "std",
+    "bpm": 140,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "expert",
+        "level": 8,
+        "internal_level": 8,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "master",
+        "level": 9,
+        "internal_level": 9,
+        "notes_designer": null,
+        "max_notes": 0
+      }
+    ]
+  },
+  {
+    "song_id": 53,
+    "name": "美しく燃える森",
+    "artist": "東京スカパラダイスオーケストラ [cover]",
+    "type": "std",
+    "bpm": 140,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 134
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.2,
+        "notes_designer": null,
+        "max_notes": 199
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.1,
+        "notes_designer": "譜面-100号",
+        "max_notes": 230
+      },
+      {
+        "difficulty": "master",
+        "level": 10,
+        "internal_level": 10.7,
+        "notes_designer": "畳返し",
+        "max_notes": 375
+      }
+    ]
+  },
+  {
+    "song_id": 54,
+    "name": "ヘビーローテーション ",
+    "artist": "AKB48 [PV]",
+    "type": "std",
+    "bpm": 178,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 3,
+        "internal_level": 3,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "advanced",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "expert",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "master",
+        "level": 9,
+        "internal_level": 9,
+        "notes_designer": null,
+        "max_notes": 0
+      }
+    ]
+  },
+  {
+    "song_id": 55,
+    "name": "CAN'T GET BACK ",
+    "artist": "w-inds. [PV]",
+    "type": "std",
+    "bpm": 140,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 3,
+        "internal_level": 3,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "advanced",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "expert",
+        "level": 8,
+        "internal_level": 8,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "master",
+        "level": 9,
+        "internal_level": 9,
+        "notes_designer": null,
+        "max_notes": 0
+      }
+    ]
+  },
+  {
+    "song_id": 56,
+    "name": "ウッーウッーウマウマ(ﾟ∀ﾟ)",
+    "artist": "Caramell/Caramelldansen [cover]",
+    "type": "std",
+    "bpm": 164,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 230
+      },
+      {
+        "difficulty": "advanced",
+        "level": 8,
+        "internal_level": 8.3,
+        "notes_designer": null,
+        "max_notes": 334
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.7,
+        "notes_designer": "譜面-100号",
+        "max_notes": 426
+      },
+      {
+        "difficulty": "master",
+        "level": 13,
+        "internal_level": 13.4,
+        "notes_designer": "ニャイン",
+        "max_notes": 542
+      }
+    ]
+  },
+  {
+    "song_id": 58,
+    "name": "Endless World",
+    "artist": "RYOHEI KOHNO/保立美和子",
+    "type": "std",
+    "bpm": 142,
+    "category": "maimai",
+    "version": "maimai PLUS",
+    "sort": "110000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 110
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 175
+      },
+      {
+        "difficulty": "expert",
+        "level": 11,
+        "internal_level": 11.2,
+        "notes_designer": "はっぴー",
+        "max_notes": 341
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.8,
+        "notes_designer": "ニャイン",
+        "max_notes": 398
+      },
+      {
+        "difficulty": "remaster",
+        "level": 13,
+        "internal_level": 13.4,
+        "notes_designer": "Jack",
+        "max_notes": 540
+      }
+    ]
+  },
+  {
+    "song_id": 59,
+    "name": "PON PON PON ",
+    "artist": "Kyarypamyupamyu [PV]",
+    "type": "std",
+    "bpm": 128,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 4,
+        "internal_level": 4,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "expert",
+        "level": 8,
+        "internal_level": 8,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "master",
+        "level": 9,
+        "internal_level": 9,
+        "notes_designer": null,
+        "max_notes": 0
+      }
+    ]
+  },
+  {
+    "song_id": 60,
+    "name": "New World",
+    "artist": "w-inds. [PV]",
+    "type": "std",
+    "bpm": 127,
+    "category": "POPS＆アニメ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 4,
+        "internal_level": 4,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "advanced",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "expert",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 0
+      },
+      {
+        "difficulty": "master",
+        "level": 9,
+        "internal_level": 9,
+        "notes_designer": null,
+        "max_notes": 0
+      }
+    ]
+  },
+  {
+    "song_id": 61,
+    "name": "Beat Of Mind",
+    "artist": "Hiro「Crackin’DJ」",
+    "type": "std",
+    "bpm": 140,
+    "category": "ゲーム＆バラエティ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 197
+      },
+      {
+        "difficulty": "advanced",
+        "level": 9,
+        "internal_level": 9.3,
+        "notes_designer": null,
+        "max_notes": 286
+      },
+      {
+        "difficulty": "expert",
+        "level": 12,
+        "internal_level": 12.7,
+        "notes_designer": "譜面-100号",
+        "max_notes": 402
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.5,
+        "notes_designer": "ニャイン",
+        "max_notes": 351
+      },
+      {
+        "difficulty": "remaster",
+        "level": 14,
+        "internal_level": 14.2,
+        "notes_designer": "はっぴー",
+        "max_notes": 777
+      }
+    ]
+  },
+  {
+    "song_id": 62,
+    "name": "檄！帝国華撃団(改)",
+    "artist": "「サクラ大戦」",
+    "type": "std",
+    "bpm": 144,
+    "category": "ゲーム＆バラエティ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 125
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.4,
+        "notes_designer": null,
+        "max_notes": 203
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.4,
+        "notes_designer": "譜面-100号",
+        "max_notes": 205
+      },
+      {
+        "difficulty": "master",
+        "level": 10,
+        "internal_level": 10.7,
+        "notes_designer": "ニャイン",
+        "max_notes": 235
+      },
+      {
+        "difficulty": "remaster",
+        "level": 13,
+        "internal_level": 13.1,
+        "notes_designer": "ぴちネコ",
+        "max_notes": 473
+      }
+    ]
+  },
+  {
+    "song_id": 63,
+    "name": "メランコリック",
+    "artist": "Junky",
+    "type": "std",
+    "bpm": 140,
+    "category": "niconico&ボーカロイド",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 192
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.8,
+        "notes_designer": null,
+        "max_notes": 197
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.4,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 274
+      },
+      {
+        "difficulty": "master",
+        "level": 11,
+        "internal_level": 11.7,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 323
+      }
+    ]
+  },
+  {
+    "song_id": 64,
+    "name": "教えて!! 魔法のLyric",
+    "artist": "ちょむP <advanced mix>",
+    "type": "std",
+    "bpm": 180,
+    "category": "niconico&ボーカロイド",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 210
+      },
+      {
+        "difficulty": "advanced",
+        "level": 8,
+        "internal_level": 8,
+        "notes_designer": null,
+        "max_notes": 253
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.7,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 326
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.4,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 424
+      }
+    ]
+  },
+  {
+    "song_id": 65,
+    "name": "ZIGG-ZAGG",
+    "artist": "Junky",
+    "type": "std",
+    "bpm": 138,
+    "category": "niconico&ボーカロイド",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 222
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.8,
+        "notes_designer": null,
+        "max_notes": 189
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.3,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 291
+      },
+      {
+        "difficulty": "master",
+        "level": 11,
+        "internal_level": 11.4,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 331
+      },
+      {
+        "difficulty": "remaster",
+        "level": 12,
+        "internal_level": 12.5,
+        "notes_designer": "はっぴー",
+        "max_notes": 358
+      }
+    ]
+  },
+  {
+    "song_id": 66,
+    "name": "ワールズエンド・ダンスホール",
+    "artist": "wowaka",
+    "type": "std",
+    "bpm": 171,
+    "category": "niconico&ボーカロイド",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 170
+      },
+      {
+        "difficulty": "advanced",
+        "level": 8,
+        "internal_level": 8.4,
+        "notes_designer": null,
+        "max_notes": 258
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.7,
+        "notes_designer": "譜面-100号",
+        "max_notes": 328
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.9,
+        "notes_designer": "ニャイン",
+        "max_notes": 464
+      },
+      {
+        "difficulty": "remaster",
+        "level": 13,
+        "internal_level": 13.3,
+        "notes_designer": "はっぴー",
+        "max_notes": 636
+      }
+    ]
+  },
+  {
+    "song_id": 67,
+    "name": "パンダヒーロー",
+    "artist": "ハチ",
+    "type": "std",
+    "bpm": 190,
+    "category": "niconico&ボーカロイド",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 146
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.7,
+        "notes_designer": null,
+        "max_notes": 205
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.8,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 278
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.4,
+        "notes_designer": "ニャイン",
+        "max_notes": 379
+      }
+    ]
+  },
+  {
+    "song_id": 68,
+    "name": "オレンジの夏",
+    "artist": "Hiro/タクマロ",
+    "type": "std",
+    "bpm": 132,
+    "category": "maimai",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 179
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.6,
+        "notes_designer": null,
+        "max_notes": 211
+      },
+      {
+        "difficulty": "expert",
+        "level": 10,
+        "internal_level": 10,
+        "notes_designer": "ニャイン",
+        "max_notes": 275
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.4,
+        "notes_designer": "ニャイン",
+        "max_notes": 371
+      }
+    ]
+  },
+  {
+    "song_id": 69,
+    "name": "BaBan!! －甘い罠－",
+    "artist": "Hiro/永江理奈",
+    "type": "std",
+    "bpm": 161,
+    "category": "maimai",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 200
+      },
+      {
+        "difficulty": "advanced",
+        "level": 8,
+        "internal_level": 8.6,
+        "notes_designer": null,
+        "max_notes": 288
+      },
+      {
+        "difficulty": "expert",
+        "level": 12,
+        "internal_level": 12.3,
+        "notes_designer": "譜面-100号",
+        "max_notes": 333
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.5,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 457
+      }
+    ]
+  },
+  {
+    "song_id": 70,
+    "name": "ジングルベル",
+    "artist": "SEGA Sound Unit [H.]",
+    "type": "std",
+    "bpm": 100,
+    "category": "maimai",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 157
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.9,
+        "notes_designer": null,
+        "max_notes": 185
+      },
+      {
+        "difficulty": "expert",
+        "level": 10,
+        "internal_level": 10.9,
+        "notes_designer": "譜面-100号",
+        "max_notes": 332
+      },
+      {
+        "difficulty": "master",
+        "level": 14,
+        "internal_level": 14.4,
+        "notes_designer": "チャン@DP皆伝",
+        "max_notes": 648
+      },
+      {
+        "difficulty": "remaster",
+        "level": 14,
+        "internal_level": 14.2,
+        "notes_designer": "チャン@DP皆伝",
+        "max_notes": 737
+      }
+    ]
+  },
+  {
+    "song_id": 71,
+    "name": "マトリョシカ",
+    "artist": "ハチ",
+    "type": "std",
+    "bpm": 205,
+    "category": "niconico&ボーカロイド",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 6,
+        "internal_level": 6,
+        "notes_designer": null,
+        "max_notes": 202
+      },
+      {
+        "difficulty": "advanced",
+        "level": 8,
+        "internal_level": 8.6,
+        "notes_designer": null,
+        "max_notes": 229
+      },
+      {
+        "difficulty": "expert",
+        "level": 9,
+        "internal_level": 9.7,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 356
+      },
+      {
+        "difficulty": "master",
+        "level": 11,
+        "internal_level": 11.7,
+        "notes_designer": "譜面-100号",
+        "max_notes": 454
+      },
+      {
+        "difficulty": "remaster",
+        "level": 13,
+        "internal_level": 13.3,
+        "notes_designer": "はっぴー",
+        "max_notes": 571
+      }
+    ]
+  },
+  {
+    "song_id": 73,
+    "name": "メグメグ☆ファイアーエンドレスナイト",
+    "artist": "samfree",
+    "type": "std",
+    "bpm": 162,
+    "category": "niconico&ボーカロイド",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 165
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7.8,
+        "notes_designer": null,
+        "max_notes": 258
+      },
+      {
+        "difficulty": "expert",
+        "level": 8,
+        "internal_level": 8.8,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 288
+      },
+      {
+        "difficulty": "master",
+        "level": 11,
+        "internal_level": 11.7,
+        "notes_designer": "maimai TEAM",
+        "max_notes": 381
+      }
+    ]
+  },
+  {
+    "song_id": 75,
+    "name": "天国と地獄",
+    "artist": "スーパーラバーズ「赤ちゃんはどこからくるの？」",
+    "type": "std",
+    "bpm": 175,
+    "category": "ゲーム＆バラエティ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 5,
+        "internal_level": 5,
+        "notes_designer": null,
+        "max_notes": 146
+      },
+      {
+        "difficulty": "advanced",
+        "level": 8,
+        "internal_level": 8,
+        "notes_designer": null,
+        "max_notes": 287
+      },
+      {
+        "difficulty": "expert",
+        "level": 10,
+        "internal_level": 10,
+        "notes_designer": "譜面-100号",
+        "max_notes": 542
+      },
+      {
+        "difficulty": "master",
+        "level": 13,
+        "internal_level": 13.4,
+        "notes_designer": "ニャイン",
+        "max_notes": 607
+      }
+    ]
+  },
+  {
+    "song_id": 76,
+    "name": "きみのためなら死ねる",
+    "artist": "スーパーラバーズ「きみのためなら死ねる」",
+    "type": "std",
+    "bpm": 160,
+    "category": "ゲーム＆バラエティ",
+    "version": "maimai",
+    "sort": "100000",
+    "charts": [
+      {
+        "difficulty": "basic",
+        "level": 4,
+        "internal_level": 4,
+        "notes_designer": null,
+        "max_notes": 152
+      },
+      {
+        "difficulty": "advanced",
+        "level": 7,
+        "internal_level": 7,
+        "notes_designer": null,
+        "max_notes": 220
+      },
+      {
+        "difficulty": "expert",
+        "level": 10,
+        "internal_level": 10,
+        "notes_designer": "譜面-100号",
+        "max_notes": 439
+      },
+      {
+        "difficulty": "master",
+        "level": 12,
+        "internal_level": 12.5,
+        "notes_designer": "ニャイン",
+        "max_notes": 517
+      }
+    ]
+  }
+]
