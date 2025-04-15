@@ -14,7 +14,7 @@ function App() {
       gap="6" // optional spacing between logo and card
     >
       <ImageCircular />
-      <Card.Root width="800px" textAlign="center">
+      <Card.Root width="80%" textAlign="center">
         <Card.Header fontSize="5xl" fontFamily="'Press Start 2P', sans-serif">
           <h1>Maidle</h1>
         </Card.Header>
